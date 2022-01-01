@@ -228,7 +228,7 @@ def anadirACopiaSeg(chat_id):
 	cop.close()
 
 # Token of the bot given by botFather. Here you should put the token of your own bot.
-TOKEN = '326265110:AAGuXzJHR0JAwnnHX6LtB6yRQtHpmgIMabU'
+TOKEN = '5029895459:AAFCOJrjK1lA5UYQIGtc9cqFXg5Y1AgU4RQ'
 
 bot = telepot.Bot(TOKEN)
 # Defining the message_loop like this makes it redirect all text messages to on_chat_message and
